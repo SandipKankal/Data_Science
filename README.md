@@ -1,5 +1,5 @@
-# Data_Science
-Bank-Marketing-Data-Analysis
+# Bank_Telemarketing_Data_Analysis
+The Problem:
 The data is related to direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to assess if the product (bank term deposit) would be subscribed  ('yes') or not ('no') subscribed.
 Objectives:
 1.	To maximize the number of clients 
@@ -10,28 +10,8 @@ Constraints:
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 Dataset-Attribute-Information:
-Input variables:
-Name of Feature	Description	Type	Relevance
-age	Age of client	Numeric	relevant
-job	Type of job	Categorical	relevant
-marital	Marital status	Categorical	Relevant
-education		Categorical	Relevant
-default	Has credit in default?	Categorical	Relevant
-housing	Has house loan?	Categorical	Relevant
-loan	Has personal loan?	Categorical	Relevant
-contact	Communication type	Categorical	Relevant
-month	last contact month of year	Categorical	Relevant
-day_of_week	last contact day of the week	Categorical	Relevant
-duration	last contact duration, in seconds	Numeric	Relevant
-compaign	number of contacts performed during this campaign and for this client	Numeric	Relevant
-pdays	number of days that passed by after the client was last contacted from a previous campaign	Numeric	Relevant
-previous	number of contacts performed before this campaign and for this client	Numeric	Relevant
-Poutcome	outcome of the previous marketing campaign	Categorical	Relevant
-Emp.var.rate	employment variation rate	Numeric	irrelevant
-cons.price.idx	Consumer price window	Numeric	irrelevant
-cons.conf.idx	Consumer confidence window	Numeric	irrelevant
-euribor3m	Euribor 3 months rate	Numeric	irrelevant
-nr.employed	Number of employees	Numeric	irrelevant
+
+
 
 Bank client data/Input Variables:
 1 - age (numeric)
